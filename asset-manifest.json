@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/desafio-pokemon/static/css/main.4afca8ff.css",
+    "main.js": "/desafio-pokemon/static/js/main.fc35e81a.js",
+    "static/js/787.11b321c0.chunk.js": "/desafio-pokemon/static/js/787.11b321c0.chunk.js",
+    "index.html": "/desafio-pokemon/index.html",
+    "main.4afca8ff.css.map": "/desafio-pokemon/static/css/main.4afca8ff.css.map",
+    "main.fc35e81a.js.map": "/desafio-pokemon/static/js/main.fc35e81a.js.map",
+    "787.11b321c0.chunk.js.map": "/desafio-pokemon/static/js/787.11b321c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afca8ff.css",
+    "static/js/main.fc35e81a.js"
+  ]
+}
